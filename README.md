@@ -4,4 +4,4 @@ now i use hermes agent to build something work or doesnt work.
 
 [Hermes Agent contributor](https://github.com/NousResearch/hermes-agent/commits?author=ade5954)
 
-- 📫 How to reach me: in Wechat Ade59545
+- 📫 reach me in Wechat: Ade59545
