@@ -1,5 +1,5 @@
 ## Hi there 👋
-### A developer who lived in Guangzhou/China for 10 years. good at java python typescript and optimize performance
+### A 10-year developer who resident of Guangzhou, skilled in Java, Python, TypeScript and performance tuning.
 now i use hermes agent to build something work or doesnt work.
 
 [Hermes Agent contributor](https://github.com/NousResearch/hermes-agent/commits?author=ade5954)
