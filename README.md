@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### A 10-year developer who resident of Guangzhou, skilled in Java, Python, TypeScript and performance tuning.
-now i use hermes agent to build something work or doesnt work.
+Currently, I use Claude Code for programming and Hermes Agent as a personal assistant. My main work focuses on customer profile CDP systems, event tracking, user journey tracing and big data analysis.
 
 ## 👩‍💻 Collaborator
 
