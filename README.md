@@ -3,7 +3,7 @@
 Currently, I use Claude Code for programming and Hermes Agent as a personal assistant. My main work focuses on customer profile CDP systems, event tracking, user journey tracing and big data analysis.
 
 ## 👩‍💻 Collaborator
-- 🌠 **[Seed-GameDev-Harness](https://github.com/Ade5954/ChatRouter)** - A production‑grade OpenAI‑compatible LLM gateway with conversation‑context‑aware routing and online feedback closed‑loop adaptive scheduling.
+- 🌠 **[chatRouter](https://github.com/Ade5954/ChatRouter)** - A production‑grade OpenAI‑compatible LLM gateway with conversation‑context‑aware routing and online feedback closed‑loop adaptive scheduling.
 - 💎 **[Seed-GameDev-Harness](https://github.com/buyun00/Seed-GameDev-Harness)** - AI Workflow System for Game Development
 
 ## 🤝 Contributor To
