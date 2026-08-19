@@ -7,7 +7,7 @@ My main work builds the data backbone for customer-profile CDP systems — from 
 ## 👩‍💻 Collaborator
 - 🌠 **[ChatRouter](https://github.com/Ade5954/ChatRouter)** — a production-grade OpenAI-compatible LLM gateway with conversation-context-aware routing and online-feedback closed-loop adaptive scheduling.
 - 💎 **[Seed-GameDev-Harness](https://github.com/buyun00/Seed-GameDev-Harness)** — an AI workflow system for game development.
-- 🔨 **[skill-graft](https://github.com/buyun00/skill-graft)** — keeps a single local source of truth for your Skills and grafts every Git worktree onto it via links; change once, every tree sees it.
+- 🔨 **[Skill-Graft](https://github.com/buyun00/skill-graft)** — keeps a single local source of truth for your Skills and grafts every Git worktree onto it via links; change once, every tree sees it.
 
 ## 🤝 Contributor To
 - 🖥 **[OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw/commits/main/?author=ade5954)**
